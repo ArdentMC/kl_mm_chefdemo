@@ -1,4 +1,4 @@
 language: ruby
 ruby: 
 
-script Test.rb
+script: Test.rb
